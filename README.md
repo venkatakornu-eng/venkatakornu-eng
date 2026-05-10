@@ -24,7 +24,8 @@
 ### 📫 Reach Me
 - 📧 Email: **venkatakornu@gmail.com**  
 - 📍 Leicester, United Kingdom  
-- 🔗 LinkedIn: *www.linkedin.com/in/kornu-venkata-santosh-kumar-675009232*  
+- 🔗 LinkedIn: *www.linkedin.com/in/kornu-venkata-santosh-kumar-675009232*
+- 👨‍💻 Portfolio: *https://venkatakornu-eng.github.io/* 
 
 ---
 
