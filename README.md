@@ -46,7 +46,7 @@ profile = {
 |------|-------------------|
 | 🤖 **Machine Learning** | Production-ready classification and regression pipelines |
 | 🧠 **Deep Learning** | LSTM / GRU / CNN architectures for time series & image data |
-| 💬 **NLP & LLMs** | Text classification, RAG pipelines, prompt engineering |
+| 💬 **NLP & LLMs** | Text classification, RAG pipelines, prompt engineering, Multi-Agent Architecture |
 | 📊 **Analytics & BI** | Interactive dashboards with Tableau, Power BI & Excel |
 | ☁️ **MLOps** | Model deployment, monitoring, and versioning workflows |
 
