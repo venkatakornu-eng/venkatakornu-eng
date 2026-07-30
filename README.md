@@ -205,7 +205,7 @@ profile = {
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=venkatakornu-eng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=a8b2d8&count_private=true" />
-[![GitHub Streak](https://streak-stats.demolab.com/venkatakornu-eng=DenverCoder1)](https://git.io/streak-stats)
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatakornu-eng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=a8b2d8&langs_count=8" />
 
 </div>
