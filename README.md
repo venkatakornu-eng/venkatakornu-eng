@@ -212,7 +212,7 @@ profile = {
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=venkatakornu-eng&bg_color=0d1117&color=64ffda&line=64ffda&point=c792ea&area=true&hide_border=truee)](https://github.com/venkatakornu-eng)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=venkatakornu-eng&bg_color=0d1117&color=64ffda&line=64ffda&point=c792ea&area=true&hide_border=truee&title=Contribution%20Graph)](https://github.com/venkatakornu-eng)
 
 <br><br>
 
