@@ -208,13 +208,11 @@ profile = {
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=venkatakornu-eng&bg_color=0d1117&color=64ffda&line=64ffda&point=c792ea&area=true&hide_border=true)
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=venkatakornu-eng&theme=tokyo-night&hide_border=true)](https://github.com/venkatakornu-eng)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=venkatakornu-eng&bg_color=0d1117&color=64ffda&line=64ffda&point=c792ea&area=true&hide_border=truee)](https://github.com/venkatakornu-eng)
 
 <br><br>
 
