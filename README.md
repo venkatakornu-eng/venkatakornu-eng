@@ -204,17 +204,20 @@ profile = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=venkatakornu-eng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=a8b2d8&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatakornu-eng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=a8b2d8&langs_count=8" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=venkatakornu-eng&theme=tokyonight&hide_border=true&background=0d1117&stroke=64ffda&ring=64ffda&fire=c792ea&currStreakLabel=64ffda&sideLabels=a8b2d8&dates=4a5380)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=venkatakornu-eng&theme=tokyonight&hide_border=true&background=0d1117&stroke=64ffda&ring=64ffda&fire=c792ea&currStreakLabel=64ffda&sideLabels=a8b2d8&dates=a8b2d8" />
-</a>
+![](https://github-readme-activity-graph.vercel.app/graph?username=venkatakornu-eng&bg_color=0d1117&color=64ffda&line=64ffda&point=c792ea&area=true&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=venkatakornu-eng&style=for-the-badge&color=64ffda&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/venkatakornu-eng?style=for-the-badge&color=64ffda&labelColor=0d1117&label=FOLLOWERS)
 
 </div>
 
