@@ -210,12 +210,11 @@ profile = {
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=venkatakornu-eng&bg_color=0d1117&color=64ffda&line=64ffda&point=c792ea&area=true&hide_border=true)
 
-</div>
+## 📈 Contribution Activity
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=venkatakornu-eng&style=for-the-badge&color=64ffda&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/venkatakornu-eng?style=for-the-badge&color=64ffda&labelColor=0d1117&label=FOLLOWERS)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=venkatakornu-eng&theme=tokyo-night&hide_border=true)](https://github.com/venkatakornu-eng)
 
 </div>
 
