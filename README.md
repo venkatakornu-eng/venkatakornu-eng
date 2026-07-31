@@ -210,14 +210,21 @@ profile = {
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=venkatakornu-eng&bg_color=0d1117&color=64ffda&line=64ffda&point=c792ea&area=true&hide_border=true)
 
-## 📈 Contribution Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=venkatakornu-eng&theme=tokyo-night&hide_border=true)](https://github.com/venkatakornu-eng)
 
-</div>
+<br><br>
 
+![](https://komarev.com/ghpvc/?username=venkatakornu-eng&style=for-the-badge&color=blueviolet)
+
+![](https://img.shields.io/github/followers/venkatakornu-eng?style=for-the-badge&logo=github)
+
+![](https://img.shields.io/github/stars/venkatakornu-eng?affiliations=OWNER&style=for-the-badge&logo=github)
+
+</div>
 ---
 
 ## 🏆 Achievements & Recognition
