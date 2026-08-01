@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2540,100:64ffda&height=140&section=header&text=Kornu%20Venkata%20Santosh%20Kumar&fontSize=32&fontColor=ffffff&fontAlignY=55&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Data%20Analyst&descAlignY=78&descSize=15&descColor=64ffda" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2540,100:64ffda&height=140&section=header&text=Kornu%20Venkata%20Santosh%20Kumar&fontSize=32&fontColor=ffffff&fontAlignY=55&desc=Data%20Scientist%20%7C%20AI/ML%20Engineer%20%7C%20Data%20Analyst&descAlignY=78&descSize=15&descColor=64ffda" width="100%"/>
 
 </div>
 
