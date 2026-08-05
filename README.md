@@ -202,11 +202,24 @@ profile = {
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=venkatakornu-eng&theme=tokyonight&hide_border=true" />
-</p>
 <div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=venkatakornu-eng&theme=tokyonight&hide_border=true&background=0d1117&stroke=64ffda&ring=64ffda&fire=c792ea&currStreakLabel=64ffda&sideLabels=a8b2d8&dates=4a5380)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=venkatakornu-eng&bg_color=0d1117&color=64ffda&line=64ffda&point=c792ea&area=true&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=venkatakornu-eng&style=for-the-badge&color=64ffda&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/venkatakornu-eng?style=for-the-badge&color=64ffda&labelColor=0d1117&label=FOLLOWERS)
+
+</div>
 
 ## 📊 GitHub Analytics
 
