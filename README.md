@@ -210,15 +210,13 @@ profile = {
 
 ## 📊 GitHub Analytics
 
+## 📈 Contribution Graph
+
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=venkatakornu-eng&bg_color=0d1117&color=64ffda&line=64ffda&point=c792ea&area=true&hide_border=true&title=Contibution%20Graph)
+![](https://github-readme-activity-graph.vercel.app/graph?username=venkatakornu-eng&theme=tokyo-night&hide_border=true)
 
-
-
-
-
-<br>
+</div>
 
 ![](https://komarev.com/ghpvc/?username=venkatakornu-eng&style=for-the-badge&color=blueviolet)
 
