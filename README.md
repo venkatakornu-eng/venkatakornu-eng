@@ -208,26 +208,17 @@ profile = {
 
 </div>
 
-<div align="center">
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=venkatakornu-eng&bg_color=0d1117&color=64ffda&line=64ffda&point=c792ea&area=true&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=venkatakornu-eng&style=for-the-badge&color=64ffda&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/venkatakornu-eng?style=for-the-badge&color=64ffda&labelColor=0d1117&label=FOLLOWERS)
-
-</div>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=venkatakornu-eng&bg_color=0d1117&color=64ffda&line=64ffda&point=c792ea&area=true&hide_border=truee&title=Contribution%20Graph)](https://github.com/venkatakornu-eng)
+![](https://github-readme-activity-graph.vercel.app/graph?username=venkatakornu-eng&bg_color=0d1117&color=64ffda&line=64ffda&point=c792ea&area=true&hide_border=true&title=Contibution%20Graph)
 
-<br><br>
+
+
+
+
+<br>
 
 ![](https://komarev.com/ghpvc/?username=venkatakornu-eng&style=for-the-badge&color=blueviolet)
 
