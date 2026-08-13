@@ -162,7 +162,7 @@ profile = {
 
 ```
 🏛️  MSc Data Science
-    University of Leicester · Leicester, UK · 2024–2025
+    University of Leicester · Leicester, UK · 2025–2026
     Modules: Machine Learning · Deep Learning · NLP · Big Data Analytics
              Statistical Methods · Data Visualisation · Research Methods
 
@@ -230,7 +230,7 @@ profile = {
 
 ## 🏆 Achievements & Recognition
 
-- 🎓 **International Postgraduate Student** — University of Leicester, UK (2024–25)
+- 🎓 **International Postgraduate Student** — University of Leicester, UK (2025–26) 
 - 🏢 **Industry Intern** — Selected for AI & LLM-focused analytics internship at Vodafone Idea Foundation (_VOIS)
 - 🔬 **Research Team Lead** — Directed a 5-member team across 72 industry surveys for MSME sector analysis
 - 📊 **5 Industry Certifications** — Deloitte, Tata Group, BCG, Goldman Sachs, Coursera
