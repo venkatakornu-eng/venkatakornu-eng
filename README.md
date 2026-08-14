@@ -202,11 +202,7 @@ profile = {
 
 ## 📈 GitHub Statistics
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=venkatakornu-eng&theme=tokyonight&hide_border=true&background=0d1117&stroke=64ffda&ring=64ffda&fire=c792ea&currStreakLabel=64ffda&sideLabels=a8b2d8&dates=4a5380)](https://git.io/streak-stats)
-
-</div>
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 ## 📊 GitHub Analytics
 
