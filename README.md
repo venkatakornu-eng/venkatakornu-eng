@@ -154,7 +154,7 @@ profile = {
 | 🟣 | **AI-Powered Data Analytics Simulation** | Tata Group · Forage | 2025 | [View](https://www.linkedin.com/in/kornu-venkata-santosh-kumar-675009232/details/certifications/) |
 | 🔵 | **Introduction to Data for Decision Makers** | BCG · Forage | 2025 | [View](https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/Pchc5rEGyCeozqY5Z_SKZxezskWgmFjRvj9_Nnuk6hNLyZYYwBq6v_1777148133164_completion_certificate.pdf) |
 | 🟡 | **Risk Job Simulation** | Goldman Sachs · Forage | 2025 | [View](https://www.theforage.com/completion-certificates/MBA4MnZTNFEoJZGnk/ETGMhLB5eCrYjcH8o_MBA4MnZTNFEoJZGnk_Nnuk6hNLyZYYwBq6v_1776364991394_completion_certificate.pdf) |
-| 🔴 | **Verified Online Certification** | Coursera | 2025 | [Verify](https://www.coursera.org/account/accomplishments/verify/8RFPBQ2ZTE7J) |
+| 🔴 | **Python for Everybody Certification** | Coursera | 2025 | [Verify](https://www.coursera.org/account/accomplishments/verify/8RFPBQ2ZTE7J) |
 
 ---
 
